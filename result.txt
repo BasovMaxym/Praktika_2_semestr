@@ -1,0 +1,15 @@
+Maksym Basov
+На улице Кирова 32 проживает Maksym Basov
+На улице Кирова 32 проживает Andrey Osokin
+Maksym Basov входит в етот диапазон!
+Misha Gienko входит в етот диапазон!
+Найстарший - Andrey Osokin
+Наймолодший - Misha Gienko
+C Maksym на одной улице проживает:
+Andrey
+C Misha на одной улице проживает:
+Yura
+C Yura на одной улице проживает:
+Misha
+C Andrey на одной улице проживает:
+Maksym
